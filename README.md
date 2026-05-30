@@ -81,5 +81,5 @@ It supports role‑based access (admin, instructor, student), course management,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/starmentor-backend.git
+   git clone https://github.com/arunlipun/uptoskills
    cd starmentor-backend
