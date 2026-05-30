@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "environments": [
+    {
+      "name": "Local",
+      "values": [
+        {
+          "key": "base_url",
+          "value": "http://localhost:5000",
+          "enabled": true
+        },
+        {
+          "key": "token",
+          "value": "",
+          "enabled": true
+        },
+        {
+          "key": "admin_token",
+          "value": "",
+          "enabled": true
+        },
+        {
+          "key": "port",
+          "value": "5000",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
